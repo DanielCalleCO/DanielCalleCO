@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"><img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" height="50px">  <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50px" alt="Aloha" /></br>Welcome to my GitHub,</br> I'm Daniel.</br>
+</h1>
 <h3 align="center">A passionate frontend developer in formation from Colombia!</h3>
-
-
+<p align="left"></p>
+</br>
 
 - 🌱 I’m currently learning **React**
 
@@ -108,10 +109,13 @@
     </a>
 </p>
 
+</br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcalleco&show_icons=true&locale=en&layout=compact" alt="danielcalleco" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcalleco&label=Profile%20views&color=0e75b6&style=flat" alt="danielcalleco" /> </p>
+
+
 <!--
 **DanielCalleCO/DanielCalleCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
