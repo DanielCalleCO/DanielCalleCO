@@ -13,7 +13,7 @@
     
    - 👨‍💻 All of my projects are available at [github.com/DanielCalleCO](github.com/DanielCalleCO)
     
-   - 📫 How to reach me **danielcalleco@gmail.com**
+   - 📫 Any feedback about my projects? > > **danielcalleco@gmail.com**
 
 </br>
 <h3 align="center">Languages and Tools:</h3>
