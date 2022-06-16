@@ -65,11 +65,11 @@
 
 <h3 align="center">🔍 Where to find me:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/danielcalleco" target="_blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0a66c2" alt="LinkedIn" title="LinkedIn" height="25" /></a>
-        <a href="https://twitter.com/danielcalleco" target="_blank"><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=03a9f4" alt="Twitter" title="Twitter" height="25"/></a>
-    <a href="https://codesandbox.io/u/DanielCalleCO" target="_blank"><img src="https://img.shields.io/badge/codesandbox-282C34?logo=codesandbox&logoColor=ffffff" alt="Twitter" title="Twitter" height="25"/></a>
+    <a href="https://linkedin.com/in/danielcalleco" target="blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0a66c2" alt="LinkedIn" title="LinkedIn" height="25" /></a>
+        <a href="https://twitter.com/danielcalleco" target="blank"><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=03a9f4" alt="Twitter" title="Twitter" height="25"/></a>
+    <a href="https://codesandbox.io/u/DanielCalleCO" target="blank"><img src="https://img.shields.io/badge/codesandbox-282C34?logo=codesandbox&logoColor=ffffff" alt="Twitter" title="Twitter" height="25"/></a>
 </p>
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=danielcalleco&label=Profile%20views&color=0e75b6&style=flat"
-        alt="danielcalleco" height="25"/> </p>
+        alt="visitors" height="25"/> </p>
