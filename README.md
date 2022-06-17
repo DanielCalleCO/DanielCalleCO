@@ -26,6 +26,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" />
     </a>
+            <a href="https://www.w3schools.com/sass/sass_intro.php" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS"
+            width="40" height="40" />
+    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
@@ -33,8 +37,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
+            <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
+            alt="javascript" width="40" height="40" />
+    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" />
+    </a>
+            <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/0962f4ffedcd098d25781bc811aecda9cd5dc98a/src/drivers/webextension/images/icons/MUI.svg"
             alt="react" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -44,7 +56,11 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+     <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40" />
+    </a>
+    </br>
+        <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -55,6 +71,7 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" />
     </a>
+
 </p>
 
 <br />
