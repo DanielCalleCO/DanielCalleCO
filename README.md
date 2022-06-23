@@ -4,7 +4,7 @@
     </br>Welcome to
     my GitHub,</br> I'm Daniel.</br>
 </h1>
-<h3 align="center">A passionate frontend developer in formation from Colombia!</h3>
+<h3 align="center">A passionate web developer in formation from Colombia!</h3>
 <p align="left"></p>
 </br>
 
