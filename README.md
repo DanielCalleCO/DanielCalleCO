@@ -3,68 +3,96 @@ src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" heig
 src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50px" alt="Aloha" />
 </br>Welcome to my GitHub,</br> I'm Daniel.</br></h1>
 
-<h3 align="left">A passionate web developer in formation from Colombia!</h3>
+<h3 align="center">A passionate web developer in formation from Colombia!</h3>
 
-- 🌱 I’m currently learning to become a QA automation engineer.
-
-- 👨‍💻 All of my projects are available at [github.com/DanielCalleCO](github.com/DanielCalleCO)
-
+<p align="center">
+- 🌱 I’m currently learning to become a QA automation engineer.</br>
+- 👨‍💻 All of my projects are available at [github.com/DanielCalleCO](github.com/DanielCalleCO)</br>
 - 📫 Any feedback about my projects? > > **danielcalleco@gmail.com**
-
+</p>
 </br>
 <h3 align="center">¡Languages and Tools I have been used!</h3></br>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /></a>
+<table align="center">
+
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/100431019/179870082-73aa0ffd-d450-4cf5-8168-99ed3b79747c.png" height="40" alt="ENTRY"/>
+</td>
+<td align="center">
 <a href="https://www.w3schools.com/sass/sass_intro.php" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /></a>
-<a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="javascript" width="40" height="40" /></a>    
-<a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /></a>
-<a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/0962f4ffedcd098d25781bc811aecda9cd5dc98a/src/drivers/webextension/images/icons/MUI.svg"
-        alt="react" width="40" height="40" /></a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"
-        alt="bootstrap" width="40" height="40" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-        height="40" /></a>
-        
+        height="40" /></a>        
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cypress" width="40"
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" alt="cypress" width="40"
         height="40" /></a>
-        
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40" /></a>
-</br>
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-icon.svg" alt="ifttt" width="40" height="40" /></a>
+</td>
+</tr>
+
+
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/100431019/179870470-7c166bb6-1fdd-428e-8fb1-0744cc9ea067.png" height="40" alt="BASIC"/>
+</td>
+<td align="center">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
+        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
+<a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="javascript" width="40" height="40" /></a>
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="javascript" width="40" height="40" />           </a>
+<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="javascript" width="40" height="40" /></a>
+<a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/0962f4ffedcd098d25781bc811aecda9cd5dc98a/src/drivers/webextension/images/icons/MUI.svg"
+        alt="react" width="40" height="40" />
+        </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"
+        alt="bootstrap" width="40" height="40" /></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
         alt="photoshop" width="40" height="40" /></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
         width="40" height="40" /></a>
+</td>
+</tr>
 
-</p>
+
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/100431019/179870525-d0821751-115c-4789-837b-70e156dc1807.png" height="40" alt="INTERMEDIATE"/>
+</td>
+<td align="center">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+        width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40" /></a>
+</td>
+</tr>
+
+
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/100431019/179870629-f8f54597-4102-4f8c-92d4-07e8c00e2bda.png" height="40" alt="ADVANCED"/>
+</td>
+<td align="center"></td>
+</tr>
+</table>
 
 <br />
 <p align="center"><img align="center"
