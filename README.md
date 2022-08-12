@@ -21,17 +21,17 @@ src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50p
         </td>
         <td align="center">
                 <a href="https://www.w3schools.com/sass/sass_intro.php" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" 
-                    alt="SASS" width="40" height="40" /></a>
+                        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" 
+                        alt="SASS" width="40" height="40" /></a>
                 <a href="https://postman.com" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-                    alt="POSTMAN" width="40" height="40" /></a>        
-                <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" 
-                    alt="CYPRESS" width="40" height="40" /></a>
+                        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+                        alt="POSTMAN" width="40" height="40" /></a>
                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
-                    alt="TYPESCRIPT" width="40" height="40" /></a>
+                        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
+                        alt="TYPESCRIPT" width="40" height="40" /></a>
+                <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" 
+                        alt="SELENIUM" width="40" height="40" /></a>
         </td>
 </tr>
 <tr>
@@ -43,6 +43,9 @@ src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50p
                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
                         alt="FIGMA" width="40" height="40" /></a>
+                <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" 
+                        alt="CYPRESS" width="40" height="40" /></a>
                 <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
                         alt="AXIOS" width="40" height="40" /></a>
