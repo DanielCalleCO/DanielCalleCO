@@ -6,9 +6,7 @@ src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50p
 <h3 align="center">A passionate web developer in formation from Colombia!</h3>
 
 <p align="center">
-- 🌱 I’m currently learning to become a QA automation engineer.</br>
-- 👨‍💻 All of my projects are available at [github.com/DanielCalleCO](github.com/DanielCalleCO)</br>
-- 📫 Any feedback about my projects? > > **danielcalleco@gmail.com**
+QA Automation Engineer with aeronautical electronics degree and experience in Web and API test automation. Management of technologies such as Cypress, Selenium, Mocha, Chai and Cucumber, executing agile project management methodologies such as SCRUM and version control systems such as Git on platforms such as GitHub. In addition, I have knowledge in front-end development, using HTML, CSS, Bootstrap, JavaScript, React and Material UI.
 </p>
 </br>
 
@@ -55,6 +53,9 @@ src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50p
                 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" 
                         alt="CHAI" width="40" height="40" /></a>
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                        alt="REACT" width="40" height="40" /></a>
                 <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/720128177074d7b87d63359cc8ed365e24e3b890/src/drivers/webextension/images/icons/MUI.svg"
                         alt="MUI" width="40" height="40" /></a>
@@ -84,9 +85,6 @@ src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50p
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                         alt="JAVASCRIPT" width="40" height="40" /></a>
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="REACT" width="40" height="40" /></a>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
                         alt="GIT" width="40" height="40" /></a>
