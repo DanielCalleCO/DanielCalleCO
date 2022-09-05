@@ -27,9 +27,9 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
                         alt="TYPESCRIPT" width="40" height="40" /></a>
-                <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                        <img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" 
-                        alt="SELENIUM" width="40" height="40" /></a>
+                <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+                        alt="FIGMA" width="40" height="40" /></a>
         </td>
 </tr>
 <tr>
@@ -38,15 +38,12 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 alt="BASIC" height="40"/>
         </td>
         <td align="center">
-                <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-                        alt="FIGMA" width="40" height="40" /></a>
-                <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" 
-                        alt="CYPRESS" width="40" height="40" /></a>
-                <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
-                        alt="AXIOS" width="40" height="40" /></a>
+                <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" 
+                        alt="SELENIUM" width="40" height="40" /></a>
+                <a href="https://testcafe.io/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/70702eb811036276c75b7ddf33060ee109026fe9/icons/file_type_testcafe.svg" 
+                        alt="TESTCAFE" width="40" height="40" /></a>
                 <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" 
                         alt="MOCHA" width="40" height="40" /></a>
@@ -76,6 +73,12 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 alt="INTERMEDIATE" height="40"/>
         </td>
         <td align="center">
+                <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" 
+                        alt="CYPRESS" width="40" height="40" /></a>
+                <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
+                        alt="AXIOS" width="40" height="40" /></a>
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                         alt="HTML 5" width="40" height="40" /></a>
@@ -117,5 +120,5 @@ alt="danielcalleco" />
 </p>
 
 <p align="center"> <img
-src="https://komarev.com/ghpvc/?username=danielcalleco&label=Profile%20views&color=0e75b6&style=flat"
+src="https://komarev.com/ghpvc/?username=danielcalleco&label=You%20are%20the%20visitor&color=0e75b6&style=flat"
 alt="visitors" height="25"/> </p>
