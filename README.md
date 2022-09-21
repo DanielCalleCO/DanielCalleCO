@@ -1,12 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"><img
 src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" height="50px"> <img
 src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50px" alt="Aloha" />
-</br>Welcome to my GitHub,</br> I'm Daniel.</br></h1>
+</br>Welcome! My name is Daniel,</br>and this is my Github.</br></h1>
 
 <h3 align="center">A passionate web developer in formation from Colombia!</h3>
 
 <p align="center">
-QA Automation Engineer with aeronautical electronics degree and experience in Web and API test automation. Management of technologies such as Cypress, Selenium, Mocha, Chai and Cucumber, executing agile project management methodologies such as SCRUM and version control systems such as Git on platforms such as GitHub. In addition, I have knowledge in front-end development, using HTML, CSS, Bootstrap, JavaScript, React and Material UI.
+QA Automation Engineer with aeronautical electronics degree and experience in Web and API test automation. Management of technologies such as Cypress, Selenium, Mocha, Chai and Cucumber, executing agile project management methodologies such as SCRUM and version control systems such as Git on platforms such as GitHub.</br>In addition, I have knowledge in front-end development, using HTML, CSS, Bootstrap, JavaScript, React and Material UI.</br> Currently, I am Scrum Master for a project with "Generación Desafiante" of Argentina.
 </p>
 </br>
 
