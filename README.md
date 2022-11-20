@@ -1,16 +1,28 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"><img
-src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" height="50px"> <img
-src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50px" alt="Aloha" />
-</br>Welcome! My name is Daniel,</br>and this is my Github.</br></h1>
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"/>
+<img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" height="60px"/>
+</br>
+<img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" height="50px" alt="Aloha" />
+</br>
+</br>
+My name is Daniel, and this is my Github.
+</br>
+</h1>
 
-<h3 align="center">A passionate web developer in formation from Colombia!</h3>
+<h3 align="center">A passionate QA Automation Engineer from Colombia!</h3>
 
-<p align="center">
-QA Automation Engineer with aeronautical electronics degree and experience in Web and API test automation. Management of technologies such as Cypress, Selenium, Mocha, Chai and Cucumber, executing agile project management methodologies such as SCRUM and version control systems such as Git on platforms such as GitHub.</br>In addition, I have knowledge in front-end development, using HTML, CSS, Bootstrap, JavaScript, React and Material UI.</br> Currently, I am Scrum Master for a project with "Generación Desafiante" of Argentina.
+<p align="left">
+QA Automation Engineer with aeronautical electronics degree and experience in Web and API test automation. Management of technologies such as PlayWright, Cypress, Selenium, Axios and Cucumber, executing agile project management methodologies such as SCRUM and version control systems such as Git on platforms such as GitHub.
+</br>
+</br>
+In addition, I have knowledge in front-end development, using HTML, CSS, Bootstrap, JavaScript, React and Material UI.
+</br>
+</br>
+I am currently working for SoftServe as a QA Automation Engineer and I am part of a personal project as a Scrum Master for "Generación Desafiante".
 </p>
 </br>
-
-<h3 align="center">¡Languages and Tools I have been used!</h3></br>
+<h3 align="center">¡Languages and Tools I have been used!</h3>
+</br>
 <table align="center">
 <tr>
         <td align="center">
@@ -18,15 +30,18 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 alt="ENTRY" height="40" />
         </td>
         <td align="center">
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                        alt="REACT" width="40" height="40" /></a>
+                <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/720128177074d7b87d63359cc8ed365e24e3b890/src/drivers/webextension/images/icons/MUI.svg"
+                        alt="MUI" width="40" height="40" /></a>
+                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+                    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"
+                    alt="BOOTSTRAP" width="40" height="40" /></a>
                 <a href="https://www.w3schools.com/sass/sass_intro.php" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" 
                         alt="SASS" width="40" height="40" /></a>
-                <a href="https://postman.com" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-                        alt="POSTMAN" width="40" height="40" /></a>
-                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
-                        alt="TYPESCRIPT" width="40" height="40" /></a>
                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
                         alt="FIGMA" width="40" height="40" /></a>
@@ -44,27 +59,9 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 <a href="https://testcafe.io/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/70702eb811036276c75b7ddf33060ee109026fe9/icons/file_type_testcafe.svg" 
                         alt="TESTCAFE" width="40" height="40" /></a>
-                <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" 
-                        alt="MOCHA" width="40" height="40" /></a>
-                <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" 
-                        alt="CHAI" width="40" height="40" /></a>
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="REACT" width="40" height="40" /></a>
-                <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/720128177074d7b87d63359cc8ed365e24e3b890/src/drivers/webextension/images/icons/MUI.svg"
-                        alt="MUI" width="40" height="40" /></a>
-                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-                    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"
-                    alt="BOOTSTRAP" width="40" height="40" /></a>
-                <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                    alt="PHOTOSHOP" width="40" height="40" /></a>
-                <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-                    alt="ILUSTRATOR" width="40" height="40" /></a>
+                <a href="https://postman.com" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+                        alt="POSTMAN" width="40" height="40" /></a>
         </td>
 </tr>
 <tr>
@@ -73,12 +70,6 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 alt="INTERMEDIATE" height="40"/>
         </td>
         <td align="center">
-                <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" 
-                        alt="CYPRESS" width="40" height="40" /></a>
-                <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
-                        alt="AXIOS" width="40" height="40" /></a>
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                         alt="HTML 5" width="40" height="40" /></a>
@@ -88,6 +79,21 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                         alt="JAVASCRIPT" width="40" height="40" /></a>
+                <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg" 
+                        alt="CYPRESS" width="40" height="40" /></a>
+                <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
+                        alt="AXIOS" width="40" height="40" /></a>
+                 <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" 
+                        alt="MOCHA" width="40" height="40" /></a>
+                <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" 
+                        alt="CHAI" width="40" height="40" /></a>
+                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
+                        alt="TYPESCRIPT" width="40" height="40" /></a>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
                         alt="GIT" width="40" height="40" /></a>
@@ -102,6 +108,9 @@ QA Automation Engineer with aeronautical electronics degree and experience in We
                 alt="ADVANCED"/>
         </td>
         <td align="center">
+                <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://github.com/gilbarbara/logos/blob/master/logos/playwright.svg" 
+                        alt="CYPRESS" width="40" height="40" /></a>
         </td>
 </tr>
 </table>
