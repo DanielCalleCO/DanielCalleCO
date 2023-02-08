@@ -85,15 +85,9 @@ I am currently working for SoftServe as a QA Automation Engineer and I am part o
                 <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
                         alt="AXIOS" width="40" height="40" /></a>
-                 <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" 
-                        alt="MOCHA" width="40" height="40" /></a>
                 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" 
                         alt="CHAI" width="40" height="40" /></a>
-                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
-                        alt="TYPESCRIPT" width="40" height="40" /></a>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
                         alt="GIT" width="40" height="40" /></a>
@@ -109,8 +103,17 @@ I am currently working for SoftServe as a QA Automation Engineer and I am part o
         </td>
         <td align="center">
                 <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-                        <img src="https://github.com/gilbarbara/logos/blob/master/logos/playwright.svg" 
-                        alt="CYPRESS" width="40" height="40" /></a>
+                        <img src="https://vectorwiki.com/images/yd6Wa__playwright-dev.svg" 
+                        alt="PLAYWRIGHT" width="40" height="40" /></a>
+                <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" 
+                        alt="MOCHA" width="40" height="40" /></a>
+                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" 
+                        alt="TYPESCRIPT" width="40" height="40" /></a>
+                <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" 
+                        alt="GITLAB" width="40" height="40" /></a>
         </td>
 </tr>
 </table>
