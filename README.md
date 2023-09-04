@@ -34,7 +34,7 @@ I work for SoftServe as a QA Automation Engineer and on a personal project as a 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                         title="React" width="40" height="40" /></a>
                 <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/720128177074d7b87d63359cc8ed365e24e3b890/src/drivers/webextension/images/icons/MUI.svg"
+                    <img src="https://vectorwiki.com/images/AN8h7__material-ui.svg"
                         title="Material UI" width="40" height="40" /></a>
                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
                     <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"
